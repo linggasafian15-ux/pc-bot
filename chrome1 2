@@ -1,12 +1,16 @@
 {
-  "asu123-33": {
-    "7639643ea8ddf6ab2d21",
-    "active": true,
-    "expires": "2026-12-31"
-  },
-  "itil-ux-002": {
-    "6b885eadb1ab078aaa7d",
-    "active": true,
-    "expires": "2026-12-31"
-  }
+  "licenses": [
+    {
+      "username": "inggasafian15-ux",
+      "license_key": "ABC123-ss-UX-001",
+      "hwid": "7639643ea8ddf6ab2d21",
+      "expiry": "2026-10-23"
+    },
+    {
+      "username": "testuser",
+      "license_key": "eea-456-USER",
+      "hwid": "6b885eadb1ab078aaa7d",
+      "expiry": "2026-10-23"
+    }
+  ]
 }
